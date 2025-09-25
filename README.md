@@ -4,7 +4,7 @@ Testando AH AH AH
 
 
 
-# 🚀 Aula 1 – Introdução a Testes de Software
+# 🚀 Introdução a Testes de Software
 
 ## 🎯 Objetivos da Aula
 
